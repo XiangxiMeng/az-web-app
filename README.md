@@ -12,7 +12,7 @@ docker run -p 8000:8000 <image>:<version>
 
 Visit
 
-  http://localhost:8000/sleep/<secs>
+  http://localhost:8000/sleep/\<secs\>
   
   http://localhost:8000/sleep1/<secs>
 
